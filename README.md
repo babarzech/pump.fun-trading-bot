@@ -1,19 +1,21 @@
-🚀 PumpFun Trading Bot
-Welcome to the PumpFun Trading Bot repository! This bot is designed to give you an edge in the fast-paced world of memecoin trading on Pump.fun. With ultra-low latency, it can instantly buy and sell new memecoin listings, helping you stay ahead of the competition.
+# 🚀 PumpFun Trading Bot
 
- <!-- You can replace this with an actual link to an image if you have one -->
+Welcome to the **PumpFun Trading Bot** repository! This bot is designed to give you an edge in the fast-paced world of memecoin trading on Pump.fun. With ultra-low latency, it can instantly buy and sell new memecoin listings, helping you stay ahead of the competition.
 
-🌟 Features
-⚡ Instant Buy/Sell: Executes trades with very low latency.
-🚀 New Memecoin Listings: Automatically buys newly listed memecoins on Pump.fun.
-📈 Optimized for Speed: Built for ultra-fast execution to capitalize on pump opportunities.
-📥 Installation
-Clone the repository:
+![PumpFun Trading Bot](https://example.com/banner.png) <!-- You can replace this with an actual link to an image if you have one -->
 
-bash
-Copy code
-git clone https://github.com/yourusername/pumpfun-trading-bot.git
-cd pumpfun-trading-bot
+## 🌟 Features
+
+- ⚡ **Instant Buy/Sell**: Executes trades with very low latency.
+- 🚀 **New Memecoin Listings**: Automatically buys newly listed memecoins on Pump.fun.
+- 📈 **Optimized for Speed**: Built for ultra-fast execution to capitalize on pump opportunities.
+
+## 📥 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/pumpfun-trading-bot.git
+   cd pumpfun-trading-bot
 Install dependencies:
 
 bash
@@ -53,3 +55,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 For any inquiries or support, please reach out to your-email@example.com.
 
 Happy trading! 🚀💰
+
+csharp
+Copy code
+
+You can now copy this content directly into your `README.md` file.
