@@ -43,8 +43,19 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 For any inquiries or support, please reach out to https://t.me/pump_fun_trading_bot.
 
 Happy trading! 🚀💰
-
-csharp
-Copy code
-
-You can now copy this content directly into your `README.md` file.
+#tradingbot
+#cryptotrading
+#memecoin
+#algorithmictrading
+#javascript
+#nodejs
+#cryptocurrency
+#pumpanddump
+#cryptoalgorithm
+#githubtrading
+#automatedtrading
+#githubbot
+#githubcrypto
+#githubfinance
+#githubcode
+#githubproject
