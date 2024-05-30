@@ -2,6 +2,8 @@
 
 Welcome to the **PumpFun Trading Bot** repository! This bot is designed to give you an edge in the fast-paced world of memecoin trading on Pump.fun. With ultra-low latency, it can instantly buy and sell new memecoin listings, helping you stay ahead of the competition.
 
+starter baic buy sell price = 100$
+
 contact me here for any queries = https://t.me/pump_fun_trading_bot
 ## 🌟 Features
 
